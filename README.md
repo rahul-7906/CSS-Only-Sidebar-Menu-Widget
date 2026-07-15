@@ -1,4 +1,7 @@
 # Pure CSS Responsive Sidebar Navigation
+<img width="720" height="460" alt="Screenshot_2026-07-15-12-13-56-960_com foxdebug acodefree~2" src="https://github.com/user-attachments/assets/ecdeeff1-2d49-4106-b544-c9cf6c29d2de" />
+<img width="720" height="444" alt="Screenshot_2026-07-15-12-14-01-075_com foxdebug acodefree~2" src="https://github.com/user-attachments/assets/879e2986-ddb0-4c6d-b62f-0035928f0a82" />
+
 
 A lightweight, modern, and completely responsive slide-out navigation sidebar built entirely with HTML5 and CSS3. 
 
@@ -7,8 +10,6 @@ The primary goal of this mini-project was to build an interactive UI component *
 
 Interactive open/close actions are managed cleanly using the **CSS Checkbox Hack** (`:checked` pseudo-class combined with sibling combinators) to handle state changes efficiently and natively within the browser styling pipeline.
 
-## 🚀 Live Demo
-🔗 **[Click here to view the live deployment!](PASTE_YOUR_LIVE_VERCEL_OR_GITHUB_PAGES_LINK_HERE)**
 
 ## 🎨 Features
 * **Zero JavaScript:** Full layout interaction managed purely through native HTML checkboxes and CSS triggers.
@@ -27,6 +28,4 @@ Interactive open/close actions are managed cleanly using the **CSS Checkbox Hack
 ├── index.html   # Main structural HTML canvas
 ├── style.css    # Core styling, layout overrides, and transitions
 └── photo.jpg    # Visual UI wrapper placeholder background
-<img width="720" height="444" alt="Screenshot_2026-07-15-12-14-01-075_com foxdebug acodefree~2" src="https://github.com/user-attachments/assets/1cabd911-44d0-43b5-97d1-bed20e923272" />
-<img width="720" height="460" alt="Screenshot_2026-07-15-12-13-56-960_com foxdebug acodefree~2" src="https://github.com/user-attachments/assets/0aa11772-0628-435c-bf76-f647b5f3837f" />
 
